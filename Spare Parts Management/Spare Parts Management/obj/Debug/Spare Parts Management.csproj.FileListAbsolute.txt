@@ -1,0 +1,13 @@
+C:\Users\drago\documents\visual studio 2013\Projects\Spare Parts Management\Spare Parts Management\obj\Debug\Spare_Parts_Management.frmLogin.resources
+C:\Users\drago\documents\visual studio 2013\Projects\Spare Parts Management\Spare Parts Management\obj\Debug\Spare_Parts_Management.Properties.Resources.resources
+C:\Users\drago\documents\visual studio 2013\Projects\Spare Parts Management\Spare Parts Management\obj\Debug\Spare Parts Management.csproj.GenerateResource.Cache
+C:\Users\drago\Desktop\Spare Parts Management\Spare Parts Management\bin\Debug\Spare Parts Management.exe.config
+C:\Users\drago\Desktop\Spare Parts Management\Spare Parts Management\bin\Debug\Spare Parts Management.exe
+C:\Users\drago\Desktop\Spare Parts Management\Spare Parts Management\bin\Debug\Spare Parts Management.pdb
+C:\Users\drago\Desktop\Spare Parts Management\Spare Parts Management\obj\Debug\Spare_Parts_Management.frmUtilizatori.resources
+C:\Users\drago\Desktop\Spare Parts Management\Spare Parts Management\obj\Debug\Spare_Parts_Management.frmLogin.resources
+C:\Users\drago\Desktop\Spare Parts Management\Spare Parts Management\obj\Debug\Spare_Parts_Management.Properties.Resources.resources
+C:\Users\drago\Desktop\Spare Parts Management\Spare Parts Management\obj\Debug\Spare Parts Management.csproj.GenerateResource.Cache
+C:\Users\drago\Desktop\Spare Parts Management\Spare Parts Management\obj\Debug\Spare Parts Management.exe
+C:\Users\drago\Desktop\Spare Parts Management\Spare Parts Management\obj\Debug\Spare Parts Management.pdb
+C:\Users\drago\Desktop\Spare Parts Management\Spare Parts Management\obj\Debug\Spare Parts Management.csprojResolveAssemblyReference.cache
